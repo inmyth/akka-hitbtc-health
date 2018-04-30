@@ -8,5 +8,4 @@ The goal is to find out what happens after bot restart because it seems HitBTC s
 ## Versions
 
 - 0.0.1
-
 Release

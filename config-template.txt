@@ -1,0 +1,18 @@
+{
+    "credentials" : {
+        "pKey" : " c081acf8eaa960712d8510da4c582e2b",
+        "nonce": "abcdef",
+        "signature": "aaa"
+    },
+    "env": {
+        "emails" : ["martin.bcu@gmail.com"],
+        "sesKey" : "AKIAIKBFGMRGOQ4UHW2A",
+        "sesSecret" : "ssss",
+        "logSeconds" : 30,
+        "symbols" : [
+            "NOAHBTC",
+            "NOAHETH",
+            "NOAHUSD"
+        ]
+    }
+}

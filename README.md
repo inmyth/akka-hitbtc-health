@@ -7,6 +7,9 @@ The goal is to find out what happens after bot restart because it seems HitBTC s
 
 ## Versions
 
+0.0.3
+- fixed endpoint
+
 0.0.2
 - Added try catch on websocket.connect
 - Changed log level from ALL to FINE (remove SES related log)

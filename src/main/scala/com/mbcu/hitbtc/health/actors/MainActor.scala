@@ -37,7 +37,7 @@ object MainActor {
 
 class MainActor(configPath : String) extends Actor with MyLogging {
   import com.mbcu.hitbtc.health.actors.MainActor._
-  val ENDPOINT = "wss://api.hitbtc.com/api/2a/ws"
+  val ENDPOINT = "wss://api.hitbtc.com/api/2/ws"
   private var config: Option[Config] = None
   private var ws: Option[ActorRef] = None
   private var parser: Option[ActorRef] = None
